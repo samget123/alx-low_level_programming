@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -ijV $CFILE>c
+gcc -V $CFILE>c
